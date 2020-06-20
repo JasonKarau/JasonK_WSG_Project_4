@@ -1,0 +1,27 @@
+/* --- find occuring color variables --- */
+// $color-primary: #d1fdf3; (light foam)
+// $color-secondary: #51ddfc; (light sky blue)
+// $color-tertiary: #58e1c1; (sea foam green)
+
+$black: #000;
+$white: #fff;
+$grey: #777;
+$light-foam: #d1fdf3;
+$sky-blue: #51ddfc;
+$sea-foam-green: #58e1c1;
+
+/* --- 3 color variables --- */
+
+$color-primary: $light-foam;
+$color-secondary: $sky-blue;
+$color-tertiary: $sea-foam-green;
+
+/* --- fonts build --- */
+
+$font-lato: 'Lato', sans-serif;
+
+/* --- media queries --- */
+$small: 330px;
+$medium: 768px;
+$large: 960px;
+$xlarge: 1024px;
