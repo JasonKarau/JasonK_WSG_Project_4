@@ -382,7 +382,7 @@ a {
   font-style: italic;
   margin-left: 20px;
   padding-left: 20px;
-  border-left: 8px solid #58e1c1;
+  border-left: 8px solid #d1fdf3;
   border-radius: 5px;
 }
 
@@ -560,7 +560,7 @@ a {
   margin-top: 10px;
   max-width: 100%;
   padding: 13px;
-  border: 1px solid #ccc;
+  border: 1px solid #777;
 }
 
 .img-logo {
